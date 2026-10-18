@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://granny-bedroom-pdt-computing.trycloudflare.com/sitemap.xml
+Sitemap: https://alphaofficialbharath-max.github.io/sitemap.xml
 # NOTE: the Sitemap URL uses the temporary quick-tunnel base. When you move to a
 # stable host (GitHub Pages / Netlify / Cloudflare Pages - see README.md step b),
 # replace the base URL with the permanent one.

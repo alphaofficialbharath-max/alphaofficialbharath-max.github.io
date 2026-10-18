@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Base URL is the temporary quick tunnel; swap in the stable host base URL after deploying (README.md step b). -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://granny-bedroom-pdt-computing.trycloudflare.com/</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://granny-bedroom-pdt-computing.trycloudflare.com/word-counter.html</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://granny-bedroom-pdt-computing.trycloudflare.com/blog/improve-typing-speed.html</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://granny-bedroom-pdt-computing.trycloudflare.com/blog/touch-typing-basics.html</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://granny-bedroom-pdt-computing.trycloudflare.com/blog/typing-test-for-jobs-india.html</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alphaofficialbharath-max.github.io/</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://alphaofficialbharath-max.github.io/word-counter.html</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://alphaofficialbharath-max.github.io/blog/improve-typing-speed.html</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alphaofficialbharath-max.github.io/blog/touch-typing-basics.html</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alphaofficialbharath-max.github.io/blog/typing-test-for-jobs-india.html</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
