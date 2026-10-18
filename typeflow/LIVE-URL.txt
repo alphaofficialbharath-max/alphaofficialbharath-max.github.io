@@ -1,8 +1,0 @@
-Typeflow public URL (live): https://granny-bedroom-pdt-computing.trycloudflare.com
-Written: 2026-10-18, end-to-end verified (all 5 pages + assets 200 over public HTTPS).
-
-Quick-tunnel setup (needs the local server running):
-  cd /home/bharath/Desktop/typeflow && python3 -m http.server 8642
-  cloudflared tunnel --url http://127.0.0.1:8642
-The URL changes every restart - for the permanent 24/7 address use a stable
-free host (README.md step b), then update the base URL in robots.txt + sitemap.xml.
