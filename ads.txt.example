@@ -1,0 +1,4 @@
+# Rename this file to "ads.txt" and place it at the site ROOT only AFTER you get a real publisher id.
+# Standard Google AdSense line - put YOUR publisher id in place of the zeros:
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Other networks use their own line format - copy exactly what the network dashboard gives you.
